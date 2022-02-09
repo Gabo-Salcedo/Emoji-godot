@@ -1,7 +1,9 @@
 # Emoji-godot
 Un conjunto de emojis con la tematica de godot diseñados por la comunidad de godot en español de discord https://discord.gg/HamgnXdAsg.
 
-Creditos: Gisel Salinas, Gabo Salcedo y Comunidad de godot en español de discord https://discord.gg/HamgnXdAsg.
+Creditos: Gabo Salcedo y Comunidad de godot en español de discord https://discord.gg/HamgnXdAsg.
+![Captura](https://user-images.githubusercontent.com/3308285/153211083-a970aa69-4dc3-45c0-9409-26fdff8fcc26.PNG)
+
 
 # Licencia
 
