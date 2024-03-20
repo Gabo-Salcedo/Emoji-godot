@@ -2,7 +2,7 @@
 Un conjunto de emojis con la tematica de godot diseñados por la comunidad de godot en español de discord https://discord.gg/HamgnXdAsg.
 
 Creditos: Gabo Salcedo y Comunidad de godot en español de discord https://discord.gg/HamgnXdAsg.
-![Captura](https://github.com/Gabo-Salcedo/Emoji-godot/blob/main/Emoticones/Capture.png)
+![Captura](https://github.com/Gabo-Salcedo/Emoji-godot/blob/main/Emoticones/GodotDiscord.png)
 
 
 # Licencia
